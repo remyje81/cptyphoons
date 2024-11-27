@@ -12,6 +12,6 @@
 })(
   document,
   'script',
-  'https://d1nmxxg9d5tdo.cloudfront.net/69/files/countdown_api.js',
+  'https://cdn.jsdelivr.net/gh/remyje81/cptyphoons@main/countdown_api.js',
   'countdown-timer'
 )
