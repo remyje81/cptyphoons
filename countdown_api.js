@@ -206,7 +206,7 @@
           }
           if (p.data.page == 'not_found') {
             o.attributes.href.value =
-              'https://' + b(o.attributes.href.value) + '/countdown-timer'
+              'https://' + b(o.attributes.href.value)
             i.style.width = '500px'
             i.style.height = '50px'
           }
